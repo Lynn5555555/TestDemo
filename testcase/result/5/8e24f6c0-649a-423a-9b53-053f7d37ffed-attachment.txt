@@ -1,0 +1,6 @@
+[32mINFO    [0m apibase.py:apibase.py:25 POST-接口请求地址：http://www.renren.com/ajaxLogin/login?1=1&uniqueTimestamp=2021201920756
+[35mDEBUG   [0m apibase.py:apibase.py:29 POST-接口请求体：{'email': '15900715134', 'icode': '', 'origURL': 'http://www.renren.com/home', 'domain': 'renren.com', 'key_id': '1', 'captcha_type': 'web_login', 'password': '73cace3274ebcd9b223640c3c5977cd8a019d1a04e10f3825dd55ba1643ff366', 'rkey': '08dfc31399cf0baa6abdfeb324016e2b', 'f': 'http%3A%2F%2Fwww.renren.com%2FLogout.do%3Frequesttoken%3D-349286761'}
+[35mDEBUG   [0m apibase.py:apibase.py:34 POST-接口的响应码：200
+[32mINFO    [0m apibase.py:apibase.py:25 POST-接口请求地址：http://www.renren.com/PersonalInfo.do?v=info_timeline
+[35mDEBUG   [0m apibase.py:apibase.py:29 POST-接口请求体：{'music': '这是音乐111', 'interest': '这是爱好111', 'book': '这是书籍111', 'movie': '这是电影111', 'game': '这是游戏111', 'comic': '这是动漫111', 'sport': '这是运动111', 'errorReturn': '1', 'submit': '保存', 'requestToken': '39957779', '_rtk': 'ce22b36d'}
+[35mDEBUG   [0m apibase.py:apibase.py:34 POST-接口的响应码：200

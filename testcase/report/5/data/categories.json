@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert False == True\n  +False\n  -True",
+      "children" : [ {
+        "name" : "test_renren_01[yaml_info0]",
+        "uid" : "18c62fc32defc2d8",
+        "parentUid" : "f19633ec40fb27aad0491849b52455ff",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616905357322,
+          "stop" : 1616905357495,
+          "duration" : 173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '15900715134', 'psw': '73cace3274ebcd9b223640c3c5977cd8a019d1a04e10f3825dd55ba1643ff366'}" ]
+      } ],
+      "uid" : "f19633ec40fb27aad0491849b52455ff"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

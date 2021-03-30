@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testcase",
+    "children" : [ {
+      "name" : "test_renren_demo1",
+      "children" : [ {
+        "name" : "TestRen",
+        "children" : [ {
+          "name" : "test_renren_01[yaml_info0]",
+          "uid" : "18c62fc32defc2d8",
+          "parentUid" : "f631fda33c8ed270935cfc297c18c96b",
+          "status" : "failed",
+          "time" : {
+            "start" : 1616905357322,
+            "stop" : 1616905357495,
+            "duration" : 173
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'username': '15900715134', 'psw': '73cace3274ebcd9b223640c3c5977cd8a019d1a04e10f3825dd55ba1643ff366'}" ]
+        }, {
+          "name" : "test_renren_02[yaml_info0]",
+          "uid" : "d6de616000782737",
+          "parentUid" : "f631fda33c8ed270935cfc297c18c96b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1616905358515,
+            "stop" : 1616905358659,
+            "duration" : 144
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'music': '这是音乐111', 'interest': '这是爱好111', 'book': '这是书籍111', 'movie': '这是电影111', 'game': '这是游戏111', 'comic': '这是动漫111', 'sport': '这是运动111'}" ]
+        }, {
+          "name" : "test_renren_02[yaml_info1]",
+          "uid" : "f4cc10eb36440cdf",
+          "parentUid" : "f631fda33c8ed270935cfc297c18c96b",
+          "status" : "passed",
+          "time" : {
+            "start" : 1616905358764,
+            "stop" : 1616905358914,
+            "duration" : 150
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "{'music': '这是音乐222', 'interest': '这是爱好222', 'book': '这是书籍222', 'movie': '这是电影222', 'game': '这是游戏222', 'comic': '这是动漫222', 'sport': '这是运动222'}" ]
+        } ],
+        "uid" : "f631fda33c8ed270935cfc297c18c96b"
+      } ],
+      "uid" : "64842d5abb187ac03f143135157c2af5"
+    } ],
+    "uid" : "7d3977dcbf31acd3e26ecbe96342e45e"
+  } ]
+}

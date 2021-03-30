@@ -1,0 +1,23 @@
+TestCase:
+  case1:
+    -
+      username: '15900715134'
+      psw: '73cace3274ebcd9b223640c3c5977cd8a019d1a04e10f3825dd55ba1643ff366'
+
+  case2:
+    -
+      music: '这是音乐111'
+      interest: '这是爱好111'
+      book: '这是书籍111'
+      movie: '这是电影111'
+      game: '这是游戏111'
+      comic: '这是动漫111'
+      sport: '这是运动111'
+
+    - music: '这是音乐222'
+      interest: '这是爱好222'
+      book: '这是书籍222'
+      movie: '这是电影222'
+      game: '这是游戏222'
+      comic: '这是动漫222'
+      sport: '这是运动222'

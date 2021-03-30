@@ -1,0 +1,19 @@
+{
+  "frame": ["xpath",".//div[@class='loginUrs']/iframe"],
+  "username": ["name","email"],
+  "psw": ["name","password"],
+  "login": ["id","dologin"],
+  "is_login": ["xpath",".//div[@class='gWel-greet']/span/span"],
+  "setting": ["xpath",".//div[@class='tY0']/ul/li[3]"],
+  "normal_set": ["xpath","//*[@id=\"_mail_component_82_82\"]/li[1]"],
+  "sign": ["xpath",".//div[@id='dvNavTree']/ul[2]/li[3]/div/span[2]"],
+  "add_sign": ["xpath",".//div[@class=\"nui-toolbar-item\"]/div/span"],
+  "in_title": ["xpath",".//div[@class='nui-item']/div/input"],
+  "frame2": ["xpath",".//iframe[@class='APP-editor-iframe']"],
+  "in_content": ["xpath",".//body[@class=\"nui-scroll\"]/p"],
+  "save": ["xpath",".//div[@class='nui-msgbox-ft-btns']/div/span"],
+  "is_success": ["xpath",".//div[@class='nk0 nui-settingForm nui-form']/p"],
+  "dele": ["xpath",".//div[@class='qN0 qy0']/a[3]"],
+  "dele_ok": ["xpath",".//div[@class='nui-msgbox-ft-btns']/div/span"],
+  "dele_success": ["xpath",".//div[@class='nui-settingForm nui-form']/div"]
+}

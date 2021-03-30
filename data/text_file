@@ -1,0 +1,6 @@
+- age: '15'
+  name: lll
+  sex: "\u5973"
+- age: '1'
+  name: ggg
+  sex: null

@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Mar 28 12:22:38 CST 2021","Sun Mar 28 12:22:38 CST 2021","144","testcase","test_renren_demo1","TestRen","","","test_renren_02[yaml_info0]","人人网编辑爱好"
+"failed","Sun Mar 28 12:22:37 CST 2021","Sun Mar 28 12:22:37 CST 2021","173","testcase","test_renren_demo1","TestRen","","","test_renren_01[yaml_info0]","人人网正常登录"
+"passed","Sun Mar 28 12:22:38 CST 2021","Sun Mar 28 12:22:38 CST 2021","150","testcase","test_renren_demo1","TestRen","","","test_renren_02[yaml_info1]","人人网编辑爱好"

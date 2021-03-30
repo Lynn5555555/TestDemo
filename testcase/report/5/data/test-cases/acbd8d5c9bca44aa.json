@@ -1,0 +1,124 @@
+{
+  "uid" : "acbd8d5c9bca44aa",
+  "name" : "test_renren_02[yaml_info0]",
+  "fullName" : "testcase.test_renren_demo1.TestRen#test_renren_02",
+  "historyId" : "d8b4759239b440e5c8f84e0fcb76fb20",
+  "time" : {
+    "start" : 1616904597586,
+    "stop" : 1616904597643,
+    "duration" : 57
+  },
+  "description" : "人人网编辑爱好",
+  "descriptionHtml" : "<p>人人网编辑爱好</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "screen_size_check",
+    "time" : {
+      "start" : 1616904597245,
+      "stop" : 1616904597246,
+      "duration" : 1
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  }, {
+    "name" : "login_renren",
+    "time" : {
+      "start" : 1616904597467,
+      "stop" : 1616904597583,
+      "duration" : 116
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "description" : "人人网编辑爱好",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6e3c15d59a52c891",
+      "name" : "log",
+      "source" : "6e3c15d59a52c891.txt",
+      "type" : "text/plain",
+      "size" : 1174
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "login_renren::0",
+    "time" : {
+      "start" : 1616904597646,
+      "stop" : 1616904597646,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('login_renren')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "testcase"
+  }, {
+    "name" : "suite",
+    "value" : "test_renren_demo1"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestRen"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-A6NHL1IA"
+  }, {
+    "name" : "thread",
+    "value" : "19164-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcase.test_renren_demo1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "yaml_info",
+    "value" : "{'music': '这是音乐111', 'interest': '这是爱好111', 'book': '这是书籍111', 'movie': '这是电影111', 'game': '这是游戏111', 'comic': '这是动漫111', 'sport': '这是运动111'}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('login_renren')" ]
+  },
+  "source" : "acbd8d5c9bca44aa.json",
+  "parameterValues" : [ "{'music': '这是音乐111', 'interest': '这是爱好111', 'book': '这是书籍111', 'movie': '这是电影111', 'game': '这是游戏111', 'comic': '这是动漫111', 'sport': '这是运动111'}" ]
+}

@@ -1,0 +1,3 @@
+check screen resolution
+screen resolution Size(width=1920, height=1080)
+run test...............

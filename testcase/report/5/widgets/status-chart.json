@@ -1,0 +1,31 @@
+[ {
+  "uid" : "d6de616000782737",
+  "name" : "test_renren_02[yaml_info0]",
+  "time" : {
+    "start" : 1616905358515,
+    "stop" : 1616905358659,
+    "duration" : 144
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18c62fc32defc2d8",
+  "name" : "test_renren_01[yaml_info0]",
+  "time" : {
+    "start" : 1616905357322,
+    "stop" : 1616905357495,
+    "duration" : 173
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "f4cc10eb36440cdf",
+  "name" : "test_renren_02[yaml_info1]",
+  "time" : {
+    "start" : 1616905358764,
+    "stop" : 1616905358914,
+    "duration" : 150
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

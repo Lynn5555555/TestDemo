@@ -1,0 +1,95 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-A6NHL1IA",
+    "children" : [ {
+      "name" : "19592-MainThread",
+      "children" : [ {
+        "name" : "test_renren_02[yaml_info0]",
+        "uid" : "d6de616000782737",
+        "parentUid" : "db43d5f63877dfdcf6776e36def8f59a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616905358515,
+          "stop" : 1616905358659,
+          "duration" : 144
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'music': '这是音乐111', 'interest': '这是爱好111', 'book': '这是书籍111', 'movie': '这是电影111', 'game': '这是游戏111', 'comic': '这是动漫111', 'sport': '这是运动111'}" ]
+      }, {
+        "name" : "test_renren_02[yaml_info1]",
+        "uid" : "f4cc10eb36440cdf",
+        "parentUid" : "db43d5f63877dfdcf6776e36def8f59a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616905358764,
+          "stop" : 1616905358914,
+          "duration" : 150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'music': '这是音乐222', 'interest': '这是爱好222', 'book': '这是书籍222', 'movie': '这是电影222', 'game': '这是游戏222', 'comic': '这是动漫222', 'sport': '这是运动222'}" ]
+      }, {
+        "name" : "test_renren_01[yaml_info0]",
+        "uid" : "18c62fc32defc2d8",
+        "parentUid" : "db43d5f63877dfdcf6776e36def8f59a",
+        "status" : "failed",
+        "time" : {
+          "start" : 1616905357322,
+          "stop" : 1616905357495,
+          "duration" : 173
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '15900715134', 'psw': '73cace3274ebcd9b223640c3c5977cd8a019d1a04e10f3825dd55ba1643ff366'}" ]
+      } ],
+      "uid" : "db43d5f63877dfdcf6776e36def8f59a"
+    }, {
+      "name" : "19164-MainThread",
+      "children" : [ {
+        "name" : "test_renren_02[yaml_info0]",
+        "uid" : "acbd8d5c9bca44aa",
+        "parentUid" : "acff56262c4bc61885e2458f351afcaa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616904597586,
+          "stop" : 1616904597643,
+          "duration" : 57
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'music': '这是音乐111', 'interest': '这是爱好111', 'book': '这是书籍111', 'movie': '这是电影111', 'game': '这是游戏111', 'comic': '这是动漫111', 'sport': '这是运动111'}" ]
+      }, {
+        "name" : "test_renren_02[yaml_info1]",
+        "uid" : "937c81b7d1dcdc7c",
+        "parentUid" : "acff56262c4bc61885e2458f351afcaa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616904597747,
+          "stop" : 1616904597809,
+          "duration" : 62
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'music': '这是音乐222', 'interest': '这是爱好222', 'book': '这是书籍222', 'movie': '这是电影222', 'game': '这是游戏222', 'comic': '这是动漫222', 'sport': '这是运动222'}" ]
+      }, {
+        "name" : "test_renren_01[yaml_info0]",
+        "uid" : "9aa383f408e7c9f8",
+        "parentUid" : "acff56262c4bc61885e2458f351afcaa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1616904597256,
+          "stop" : 1616904597459,
+          "duration" : 203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'username': '15900715134', 'psw': '73cace3274ebcd9b223640c3c5977cd8a019d1a04e10f3825dd55ba1643ff366'}" ]
+      } ],
+      "uid" : "acff56262c4bc61885e2458f351afcaa"
+    } ],
+    "uid" : "31cb0c96985a688d31157bf2997595e4"
+  } ]
+}
